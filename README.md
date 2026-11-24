@@ -1,8 +1,8 @@
 <!--                 ENCABEZADO                  -->
 <!-- ================================================= -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3C2218,50:3C2218,50:FFC7C7&height=170&section=header&text=Mar%C3%ADa%20Jos%C3%A9%20Jurado&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20in%20Progress&descAlignY=58&descSize=17&fontFamily=Playfair%20Display&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F4AEBE,100:F4AEBE&height=180&section=header&text=Mar%C3%ADa%20Jos%C3%A9%20Jurado&fontSize=43&fontColor=03153D&fontAlignY=30&desc=Software%20Developer%20in%20Progress&descAlignY=45&descSize=17&fontFamily=Playfair%20Display&animation=fadeIn" />
+</div>
 
 <br>
 
@@ -46,7 +46,7 @@ Me considero una persona responsable, organizada, curiosa y comprometida con mi 
 <!--                  TECHNOLOGIES                     -->
 <!-- ================================================= -->
 
-## 💻 Tecnologías y herramientas
+## Tecnologías y herramientas
 
 ### Desarrollo web
 
@@ -80,7 +80,7 @@ Me considero una persona responsable, organizada, curiosa y comprometida con mi 
 <!--                    SKILLS                         -->
 <!-- ================================================= -->
 
-## 🎀 Conocimientos técnicos
+## Conocimientos técnicos
 
 | Área | Conocimientos |
 |:---|:---|
@@ -121,7 +121,7 @@ Me encuentro fortaleciendo mis conocimientos y explorando nuevas tecnologías pa
 
 **Practicante – Departamento de Sistemas**
 
-📍 Bogotá, Colombia
+Bogotá, Colombia
 
  Junio 2026 – Actualidad
 
@@ -144,7 +144,7 @@ Esta experiencia me ha permitido fortalecer mis conocimientos técnicos, desarro
 <!--                  GITHUB STATS                     -->
 <!-- ================================================= -->
 
-## 📈 Mi actividad en GitHub
+## Mi actividad en GitHub
 
 <div align="center">
 
@@ -164,7 +164,7 @@ Esta experiencia me ha permitido fortalecer mis conocimientos técnicos, desarro
 <!--                    CONTACT                         -->
 <!-- ================================================= -->
 
-## 💌 Conectemos
+## Conectemos
 
 Me encanta compartir conocimientos, conocer personas del mundo tecnológico y descubrir nuevas oportunidades para seguir aprendiendo.
 
@@ -178,7 +178,7 @@ Si compartimos intereses en programación, tecnología o desarrollo de software,
 
 <br><br>
 
-📍 Bogotá, Colombia 🇨🇴
+Bogotá, Colombia 🇨🇴
 
 <br>
 
