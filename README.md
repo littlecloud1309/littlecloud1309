@@ -14,7 +14,7 @@
 
 <!--                    SOBRE MI                       -->
 
-### 𝑆𝑜𝑏𝑟𝑒 𝑚í 🌷
+## Sobre mí 🌷
 
 ¡Hola! Bienvenida/o a mi perfil.
 
@@ -34,7 +34,7 @@ Me considero una persona responsable, organizada, curiosa y comprometida con mi 
 <!--                  TECNOLOGIAS                     -->
 
 
-## 𝑇𝑒𝑐𝑛𝑜𝑙𝑜𝑔í𝑎𝑠 𝑦 ℎ𝑒𝑟𝑟𝑎𝑚𝑖𝑒𝑛𝑡𝑎𝑠
+## Tecnologías y herramientas
 
 ### Desarrollo web
 
@@ -66,7 +66,7 @@ Me considero una persona responsable, organizada, curiosa y comprometida con mi 
 
 <!--                    SKILLS                         -->
 
-### 𝐶𝑜𝑛𝑜𝑐𝑖𝑚𝑖𝑒𝑛𝑡𝑜𝑠 𝑡é𝑐𝑛𝑖𝑐𝑜𝑠
+## Conocimientos técnicos
 
 | Área | Conocimientos |
 |:---|:---|
@@ -140,11 +140,6 @@ Si compartimos intereses en programación, tecnología o desarrollo de software,
 
 Bogotá, Colombia 🇨🇴
 
-<br>
-
-*«Cada línea de código es una oportunidad para aprender algo nuevo». 💗*
-
-<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D5A3B8,50:E8C2D1,100:F4DCE5&height=110&section=footer" />
 
