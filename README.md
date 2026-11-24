@@ -1,16 +1,9 @@
 <!--                 ENCABEZADO                  -->
-<!-- ================================================= -->
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F4AEBE,100:F4AEBE&height=180&section=header&text=Mar%C3%ADa%20Jos%C3%A9%20Jurado&fontSize=43&fontColor=03153D&fontAlignY=30&desc=Software%20Developer%20in%20Progress&descAlignY=45&descSize=17&fontFamily=Playfair%20Display&animation=fadeIn" />
 </div>
 
-<br>
-
-### 𝗔𝗻á𝗹𝗶𝘀𝗶𝘀 𝘆 𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗼 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲
-
-*Aprendiendo, creando y convirtiendo ideas en soluciones.* 
-
-<br>
+## 𝗔𝗻á𝗹𝗶𝘀𝗶𝘀 𝘆 𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗼 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲
 
 [![Email](https://img.shields.io/badge/EMAIL-D5A3B8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariajjuradomza@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-C99BAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
@@ -19,17 +12,13 @@
 
 ---
 
-<!-- ================================================= -->
-<!--                    ABOUT ME                       -->
-<!-- ================================================= -->
+<!--                    SOBRE MI                       -->
 
-## 🌷 Sobre mí
+### 𝑆𝑜𝑏𝑟𝑒 𝑚í 🌷
 
 ¡Hola! Bienvenida/o a mi perfil.
 
-Soy estudiante del programa de **Análisis y Desarrollo de Software del SENA**, actualmente en etapa productiva, con experiencia práctica en el departamento de Sistemas de Editorial Planeta.
-
-Me apasiona la tecnología, el desarrollo de software y la posibilidad de crear soluciones que permitan optimizar procesos y resolver problemas reales.
+Soy estudiante del programa de **Análisis y Desarrollo de Software del SENA**, actualmente en etapa productiva, con experiencia práctica en el departamento de Sistemas de Editorial Planeta. Me apasiona la tecnología, el desarrollo de software y la posibilidad de crear soluciones que permitan optimizar procesos y resolver problemas reales.
 
 Me considero una persona responsable, organizada, curiosa y comprometida con mi crecimiento profesional. Disfruto aprender nuevas tecnologías, explorar herramientas y enfrentar retos que me permitan fortalecer mis habilidades.
 
@@ -42,11 +31,10 @@ Me considero una persona responsable, organizada, curiosa y comprometida con mi 
 
 ---
 
-<!-- ================================================= -->
-<!--                  TECHNOLOGIES                     -->
-<!-- ================================================= -->
+<!--                  TECNOLOGIAS                     -->
 
-## Tecnologías y herramientas
+
+## 𝑇𝑒𝑐𝑛𝑜𝑙𝑜𝑔í𝑎𝑠 𝑦 ℎ𝑒𝑟𝑟𝑎𝑚𝑖𝑒𝑛𝑡𝑎𝑠
 
 ### Desarrollo web
 
@@ -76,11 +64,9 @@ Me considero una persona responsable, organizada, curiosa y comprometida con mi 
 
 ---
 
-<!-- ================================================= -->
 <!--                    SKILLS                         -->
-<!-- ================================================= -->
 
-## Conocimientos técnicos
+### 𝐶𝑜𝑛𝑜𝑐𝑖𝑚𝑖𝑒𝑛𝑡𝑜𝑠 𝑡é𝑐𝑛𝑖𝑐𝑜𝑠
 
 | Área | Conocimientos |
 |:---|:---|
@@ -94,9 +80,7 @@ Me considero una persona responsable, organizada, curiosa y comprometida con mi 
 
 ---
 
-<!-- ================================================= -->
 <!--                 LEARNING                          -->
-<!-- ================================================= -->
 
 ## Actualmente aprendiendo
 
@@ -111,9 +95,7 @@ Me encuentro fortaleciendo mis conocimientos y explorando nuevas tecnologías pa
 
 ---
 
-<!-- ================================================= -->
 <!--                  EXPERIENCE                       -->
-<!-- ================================================= -->
 
 ## Experiencia profesional
 
@@ -140,29 +122,7 @@ Esta experiencia me ha permitido fortalecer mis conocimientos técnicos, desarro
 
 ---
 
-<!-- ================================================= -->
-<!--                  GITHUB STATS                     -->
-<!-- ================================================= -->
-
-## Mi actividad en GitHub
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=FFF9FB&title_color=C28FA5&icon_color=D5A3B8&text_color=777777&rank_icon=github" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=FFF9FB&title_color=C28FA5&text_color=777777" />
-
-<br><br>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true&background=FFF9FB&ring=D5A3B8&fire=C28FA5&currStreakLabel=C28FA5&sideLabels=C28FA5&dates=999999" />
-
-</div>
-
----
-
-<!-- ================================================= -->
 <!--                    CONTACT                         -->
-<!-- ================================================= -->
 
 ## Conectemos
 
